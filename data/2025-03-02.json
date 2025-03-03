@@ -846,7 +846,35 @@
     },
     {
       "name": "拼多多",
-      "jobs": []
+      "jobs": [
+        {
+          "name": "GPU开发工程师（大模型基础架构方向）",
+          "subName": "GPU开发工程师（大模型基础架构方向） | 上海",
+          "mdName": "GPU开发工程师（大模型基础架构方向）",
+          "location": "上海",
+          "url": "https://careers.pinduoduo.com/jobs/detail?code=T021338",
+          "description": "",
+          "requirement": ""
+        },
+        {
+          "name": "高级算法工程师-DSP广告",
+          "subName": "高级算法工程师-DSP广告 | 上海",
+          "mdName": "高级算法工程师-DSP广告",
+          "location": "上海",
+          "url": "https://careers.pinduoduo.com/jobs/detail?code=T017189",
+          "description": "",
+          "requirement": ""
+        },
+        {
+          "name": "大模型算法工程师",
+          "subName": "大模型算法工程师 | 上海",
+          "mdName": "大模型算法工程师",
+          "location": "上海",
+          "url": "https://careers.pinduoduo.com/jobs/detail?code=T019046",
+          "description": "",
+          "requirement": ""
+        }
+      ]
     },
     {
       "name": "京东",
