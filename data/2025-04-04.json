@@ -1,118 +1,140 @@
 {
-  "date": "2025-04-05",
+  "date": "2025-04-04",
   "list": [
     {
       "name": "腾讯",
       "jobs": [
         {
-          "name": "音视频客户端测试工程师",
-          "subName": "音视频客户端测试工程师 | 深圳 | 三年以上工作经验",
-          "mdName": "音视频客户端测试工程师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1833387114834718720",
+          "name": "《异人之下》高级后台开发工程师",
+          "subName": "《异人之下》高级后台开发工程师 | 深圳 | 三年以上工作经验",
+          "mdName": "《异人之下》高级后台开发工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1811231844885082112",
           "location": "深圳",
           "experience": "三年以上工作经验",
-          "description": "1.负责音视频相关产品的全流程质量管控工作，包括参与需求分析，帮助完善需求与开发设计实现，合理设计测试计划，实施测试活动，跟进缺陷，协助研发分析定位问题，并结合项目特征，挖掘业务相关的各种专项测试需求；\r\n2.挖掘并跟进实施性能、稳定性、可靠性等专项测试，保障和提升产品质量；\r\n3.跟进建设流水线、自动化测试以及必要的测试工具开发，提升整体研发效能。",
+          "description": "1.为动作游戏产品提供灵活、实用的游戏后台解决方案，以丰富游戏产品内容，提升游戏品质；\n2.负责高可用、高并发的后台框架、玩法和系统功能，解决分布式开发应用问题，提升服务性能和研发效率；\n3.建立完善的监控和分析系统，保证业务高质量运行，及时响应各种突发事件；\n4.不断学习探索业界cloud native和微服务等理念，结合游戏业务场景，构建云原生游戏后台解决方案。",
           "requirement": null
         },
         {
-          "name": "高级质量工程师-数据分析和AI智能化应用方向",
-          "subName": "高级质量工程师-数据分析和AI智能化应用方向 | 深圳 | 三年以上工作经验",
-          "mdName": "高级质量工程师-数据分析和AI智能化应用方向",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1833387110942400512",
+          "name": "《异人之下》后台开发工程师",
+          "subName": "《异人之下》后台开发工程师 | 深圳 | 两年以上工作经验",
+          "mdName": "《异人之下》后台开发工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1811057552545292288",
           "location": "深圳",
-          "experience": "三年以上工作经验",
-          "description": "1.整体设计质量管理工作提效框架，识别智能化落地场景；\r\n2.构建质量数据仓库:整合流水线、监控、服务日志、客户工单系统等各类数据源，建立标准化数据治理体系；\r\n3.建设智能质量看板:开发多维度质量看板(产品/团队/用户视角)，结合根因分析算法(如决策树、聚类、因果推理)，自动定位关键问题(如高频故障模块、客户体验瓶颈)；\r\n4.建设智能根因分析中心:基于大模型，结合客户工单、研发缺陷、产品故障等，自动聚类根因问题，输出根因归因报告与改进建议(如代码缺陷热区、配置错误模式)；\r\n5.构建产品质量画像系统:融合动态指标(MTTR/MTBF)与静态元数据(架构复杂度、历史缺陷密度等)，刻画产品质量，生成产品健康度评分，支持智能决策；\r\n6.建设产品质量风险预测模型:根据各类质量数据，预测产品质量风险，预警现网操作(如发布失败概率、容量瓶颈)。",
-          "requirement": null
-        },
-        {
-          "name": "边缘安全加速测试高级工程师（成都）",
-          "subName": "边缘安全加速测试高级工程师（成都） | 深圳 | 三年以上工作经验",
-          "mdName": "边缘安全加速测试高级工程师（成都）",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1833387106173480960",
-          "location": "深圳",
-          "experience": "三年以上工作经验",
-          "description": "1.负责腾讯边缘安全加速云产品的测试工作，分析系统相关需求、设计、架构等，设计测试方法和测试用例；\r\n2.挖掘并跟进实施性能、稳定性、可靠性等专项测试，保障和提升产品质量；\r\n3.跟进建设边缘安全加速云产品相关的流水线、自动化测试以及必要的测试工具开发，提升整体研发效能。",
-          "requirement": null
-        },
-        {
-          "name": "腾讯云-网络规划架构师",
-          "subName": "腾讯云-网络规划架构师 | 深圳 | 三年以上工作经验",
-          "mdName": "腾讯云-网络规划架构师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1876895279580483584",
-          "location": "深圳",
-          "experience": "三年以上工作经验",
-          "description": "1.负责腾讯公司基础设施网络的技术规划与管理工作，主导中长期降本路线的规划制定与落地实施；\r\n2.深入剖析腾讯云网络产品的技术架构，开展运营优化工作，同时对公有云行业解决方案展开深入研究与探索；\r\n3.持续追踪前沿技术发展动态，包括但不限于数据中心网络架构的演进趋势、网络新硬件的迭代更新、网络流量调度策略的创新发展；\r\n4.积极参与跨事业群、跨部门的联合项目管理工作。",
-          "requirement": null
-        },
-        {
-          "name": "腾讯云-资源需求计划高级工程师",
-          "subName": "腾讯云-资源需求计划高级工程师 | 深圳 | 五年以上工作经验",
-          "mdName": "腾讯云-资源需求计划高级工程师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1876895241399734272",
-          "location": "深圳",
-          "experience": "五年以上工作经验",
-          "description": "1.负责主导腾讯云海外中长期资源需求计划，跨多部门、领域的端到端共识，管理层汇报和推动决策；\r\n2.拉通行业需求、产品规划、IDC规划，形成海外供需协同机制，推动海外供需指标结果改善；\r\n3.中长期资源计划和战略规划管理方法建设和发布、落地和滚动审视。",
-          "requirement": null
-        },
-        {
-          "name": "大模型Agentic-算法工程师",
-          "subName": "大模型Agentic-算法工程师 | 深圳 | 三年以上工作经验",
-          "mdName": "大模型Agentic-算法工程师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1670301957484453888",
-          "location": "深圳",
-          "experience": "三年以上工作经验",
-          "description": "1.作为研究者，探索有效的 Agentic Workflow 设计方法，给出具体的实操方法并论证效果；\r\n2.作为工程师，考虑到 LLM inference 对推理算力的高消耗，设计出合理的前后端交互，前端架构，后端架构，在有限的推理算力下，做出完整的 Agentic Workflow 解决方案。最好是探索一套通用可扩展的 Agentic Workflow 解决方案；\r\n3.深入了解 “AI辅助软件研发”、“AI辅助设计”、“DevOps工具” 等产品的特点，为这些产品设计 Agentic Workflow 的方案增强一些核心功能点，让 Agentic Workflow 技术产生实用价值。",
-          "requirement": null
-        },
-        {
-          "name": "腾讯云轻量云-DNSPod域名解析高级研发工程师",
-          "subName": "腾讯云轻量云-DNSPod域名解析高级研发工程师 | 长沙 | 五年以上工作经验",
-          "mdName": "腾讯云轻量云-DNSPod域名解析高级研发工程师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1811650181200883712",
-          "location": "长沙",
-          "experience": "五年以上工作经验",
-          "description": "1.负责腾讯云DNSPod相关的解析服务及腾讯公司内部解析服务的后台架构设计和稳定性；\n2.负责优化域名解析服务性能，包括内存管理、缓存策略和负载均衡 ；\n3.负责域名解析相关的稳定性/可用性优化、性能调优等工作 ；\n4.负责跟踪和评估新兴技术，以提高域名解析性能和可靠性。",
-          "requirement": null
-        },
-        {
-          "name": "地图自动建图工程师-自动化融合建图方向",
-          "subName": "地图自动建图工程师-自动化融合建图方向 | 武汉 | 五年以上工作经验",
-          "mdName": "地图自动建图工程师-自动化融合建图方向",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1833450671249055744",
-          "location": "武汉",
-          "experience": "五年以上工作经验",
-          "description": "1.负责处理海量多源多模态数据，采用数据&&策略算法驱动的模式，自动化融合成图，实现对现实世界道路数据的精准刻画；\r\n2.负责自动化数据处理Pipeline建设，基于图匹配与机器学习等技术，应用孪生网络、GNN等，完成多层次地图数据的对齐绑定、差分、自动写入，实现地图数据的高效更新；\r\n3.持续探索与跟进前沿技术，在自动化建图领域带来高业务价值的新技术落地；\r\n4.注：此岗位为腾讯集团旗下子公司编制岗位。",
-          "requirement": null
-        },
-        {
-          "name": "腾讯灯塔-#前端开发工程师#-大数据应用",
-          "subName": "腾讯灯塔-#前端开发工程师#-大数据应用 | 深圳 | 一年以上工作经验",
-          "mdName": "腾讯灯塔-#前端开发工程师#-大数据应用",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1887708714484408320",
-          "location": "深圳",
-          "experience": "一年以上工作经验",
-          "description": "1.负责BI数据分析平台DataTalk的架构设计、核心开发工作；\n2.负责灯塔大数据套件产品完善、落地和用户体验的持续提升和优化；\n3.负责前端团队基础架构、开放式架构、技术探索、工程化建设等，不断提升前端的质量和研发效能。",
-          "requirement": null
-        },
-        {
-          "name": "时光实验室-大模型算法工程师",
-          "subName": "时光实验室-大模型算法工程师 | 北京 | 两年以上工作经验",
-          "mdName": "时光实验室-大模型算法工程师",
-          "url": "http://careers.tencent.com/jobdesc.html?postId=1811756505733537792",
-          "location": "北京",
           "experience": "两年以上工作经验",
-          "description": "1.负责在灾害预测、老人陪伴等场景的AI算法研究和模型训练工作，基于大模型打造可落地的前沿应用；\r\n2.跟踪AI领域的最新进展和应用趋势，重点关注与灾害、养老相关领域的交叉应用；\r\n3.根据场景评估模型输出，通过强化学习等方式优化模型效果。",
+          "description": "1.负责动作游戏产品后台社交、活动、商业化等各种系统的设计开发、测试和部署等相关工作；\r\n2.参与游戏中关键技术预研，有较强的学习和分析能力，和项目团队紧密合作，推进技术应用落地；\r\n3.负责游戏后台部分模块的重构和性能优化，保证业务高质量运行，并及时响应各种突发事件。",
+          "requirement": null
+        },
+        {
+          "name": "音视频后台研发工程师",
+          "subName": "音视频后台研发工程师 | 深圳 | 两年以上工作经验",
+          "mdName": "音视频后台研发工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1876448225561448448",
+          "location": "深圳",
+          "experience": "两年以上工作经验",
+          "description": "1.负责视频直播等实时音视频流媒体业务的后台分发、调度系统架构设计和模块研发，能以数据驱动的方式对用户体验、经营成本进行优化；\r\n2.负责海量服务后台的架构设计、开发和维护，需要做到高性能、高可用、可扩展、柔性可用；\r\n3.负责业务逻辑开发，能够有效进行用户需求理解、分析，可以对平台进行有前瞻性的规划&设计。",
+          "requirement": null
+        },
+        {
+          "name": "腾讯云-安灯NLP大模型算法工程师",
+          "subName": "腾讯云-安灯NLP大模型算法工程师 | 深圳 | 五年以上工作经验",
+          "mdName": "腾讯云-安灯NLP大模型算法工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1789505034187186176",
+          "location": "深圳",
+          "experience": "五年以上工作经验",
+          "description": "1.参与大模型的应用开发，推动大模型文本生成、意图识别、多模态、多智能体等能力在业务场景落地，针对业务特有问题改进优化；\n2.负责大模型搭建、调优，以及线上模型的维护和优化；\n3.紧跟业界最新技术，攻克大语言模型关键技术难点。",
+          "requirement": null
+        },
+        {
+          "name": "《穿越火线手游》服务器开发工程师（gameplay方向）",
+          "subName": "《穿越火线手游》服务器开发工程师（gameplay方向） | 深圳 | 两年以上工作经验",
+          "mdName": "《穿越火线手游》服务器开发工程师（gameplay方向）",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1876450847508959232",
+          "location": "深圳",
+          "experience": "两年以上工作经验",
+          "description": "1.负责服务端的gameplay设计和实现，包括但不限于竞技、玩法、技能、武器机制、同步及网络优化、性能优化和外挂打击 ；\n2.与项目团队（包括客户端开发、策划、项目经理等）保持良好沟通，确保编码任务的顺利推进和及时上线；\n3.利用数据平台和可观测性工具保障业务的稳定运行，并能够熟练处理和解决线上运营中的问题和故障。",
+          "requirement": null
+        },
+        {
+          "name": "《穿越火线手游》游戏客户端开发 (系统方向)",
+          "subName": "《穿越火线手游》游戏客户端开发 (系统方向) | 深圳 | 三年以上工作经验",
+          "mdName": "《穿越火线手游》游戏客户端开发 (系统方向)",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1876450844178681856",
+          "location": "深圳",
+          "experience": "三年以上工作经验",
+          "description": "1.和团队一起，参与项目重点商业化/系统/活动等模块迭代工作；\n2.负责具体武器管线升级包括机制型武器功能开发以及对应工具演进工作；\n3.持续迭代和优化模块功能逻辑，必要时重构现有框架，提升性能和稳定性；\n4.协同部门相关上下游，如策划、美术等，在技术上提供专业解决方案和建议；\n5.有过完整项目系统模块开发经验或者熟悉CI流程、引擎构建管线构建者优先。",
+          "requirement": null
+        },
+        {
+          "name": "腾讯视频-多模态理解与生成算法工程师-（北京）",
+          "subName": "腾讯视频-多模态理解与生成算法工程师-（北京） | 深圳 | 三年以上工作经验",
+          "mdName": "腾讯视频-多模态理解与生成算法工程师-（北京）",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1778600202899300352",
+          "location": "深圳",
+          "experience": "三年以上工作经验",
+          "description": "1.负责腾讯视频多模态内容理解，素材生产、智能剪辑等业务的研发；\n2.负责研发可控生成模型（图像、视频等）研发，并在内容制作领域落地。",
+          "requirement": null
+        },
+        {
+          "name": "微信小程序-后台开发工程师-行业功能方向",
+          "subName": "微信小程序-后台开发工程师-行业功能方向 | 广州 | 一年以上工作经验",
+          "mdName": "微信小程序-后台开发工程师-行业功能方向",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1833091518949257216",
+          "location": "广州",
+          "experience": "一年以上工作经验",
+          "description": "1.负责小程序境外交易、车载智控，医疗创新、教育优惠等创新功能的开发和维护；\n2.对现有架构进行分析和优化，确保系统的稳定性、可扩展性和安全性。",
+          "requirement": null
+        },
+        {
+          "name": "搜狗输入法-PC技术组技术高级工程师",
+          "subName": "搜狗输入法-PC技术组技术高级工程师 | 北京 | 五年以上工作经验",
+          "mdName": "搜狗输入法-PC技术组技术高级工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1843847717793591296",
+          "location": "北京",
+          "experience": "五年以上工作经验",
+          "description": "1.负责亿级产品的客户端功能架构设计和开发工作，为用户提供优质的信息服务和极致体验；\r\n2.负责输入法PC客户端相关业务架构设计以及持续演进，打造团队核心技术竞争力；\r\n3.负责重点技术难题和项目攻关，协调内外部资源，有落地拿结果能力。",
+          "requirement": null
+        },
+        {
+          "name": "PUBG Mobile-高级游戏后台开发工程师",
+          "subName": "PUBG Mobile-高级游戏后台开发工程师 | 深圳 | 三年以上工作经验",
+          "mdName": "PUBG Mobile-高级游戏后台开发工程师",
+          "url": "http://careers.tencent.com/jobdesc.html?postId=1811124092749754368",
+          "location": "深圳",
+          "experience": "三年以上工作经验",
+          "description": "1.负责游戏后台架构设计，对系统架构针对性优化调整，逻辑系统设计和开发工作；\r\n2.负责典型技术问题和全球化开发部署难点的攻关；\r\n3.负责游戏服务器的运营维护和外网问题的处理。",
           "requirement": null
         }
       ]
     },
     {
       "name": "蚂蚁集团",
-      "jobs": []
+      "jobs": [
+        {
+          "name": "Ant International-Solution Engineer-US Tech",
+          "subName": "Ant International-Solution Engineer-US Tech | 森尼韦尔 | 2年",
+          "mdName": "Ant International-Solution Engineer-US Tech",
+          "url": "https://talent.antgroup.com/off-campus-position?positionId=1951607",
+          "location": "森尼韦尔",
+          "experience": "2年",
+          "description": "AUS Merchant Service.INC as known as Alipay that is committed to democratizing payment services and empowering people and businesses to join and thrive in the global economy. Alipay at its core is a group of engineers that are dedicated in building cutting edge, highly reliable, highly scalable and high throughput payment system. Here at Ant Group, you will have a positive impact to the world. You will learn and build the most exciting and most capable large-scale payment system with engineers like you with passion. A career at Alipay is more than just a job. It’s a chance to have broader knowledge and learn things from all aspects of how to make payments happen. At Alipay, we value personal growth and always set higher bar, encourage people to come out of comfort zone and make yourself a better you. You can expect to be constantly challenged with interesting technical problems. Our work environment is collaborative, innovative, results-driven, and completely focused on the customer.\n\nThe Solution Engineer (SE) role resides within the Alipay Enterprise Presale Integration Solution (PIS) team and is responsible for critical activities such as integration solution creation, presentation and projects' implementation and maintenance.\n\nThis person functions as a regional primary Technical Force for the Alipay global services and provides a single point of contact for any relevant technical consultation required by external and internal partners. This role provides deliveries for quality-focused activities such as requirements Integration Detail reviews, Technical Design reviews, Test Plan reviews, and Impact Analysis reviews. Working closely with the BD and PD teams, the SE role consistently ensures that any new Integration being done appropriately with the internal/external teams aligns with the direction, best practices, and standards defined.\n\nFinally, the SE must be able to present applicable advances and changes to help drive future-looking initiatives.\n\n\n",
+          "requirement": "Experience, education, and skill set requirements\no Familiar with one or more general purpose programming languages including but not limited to: Python, Go, Java, C/C++\no Experience authoring technical documentation\no BS (or equivalent) in computer science, computer engineering, or related field\no Demonstrate excellent communication skills\no Experience working with integration, SOA, and process automation systems\n\nNICE TO HAVE\no Experience working within customer services-related roles\no Experience working within software development roles\no Fintech/Payment business background and experience is highly appreciated\no Able to understand and digest complex. multi-tier, integrated software systems\no Able to think critically under pressure\no Able to decompose complex systems to facilitate communication, troubleshooting, and impact analysis\no Demonstrate passion for process standardization and IT excellence\n\n[New York City] The base salary range for this position is $114,000 - $192,000 annually.\n\nThe range displayed on each job posting reflects the minimum and maximum target for new hire base salary for the position across our US office locations. Individual pay is determined by a number of factors, including job-related skills, experience, and relevant education and training. This role may be eligible for additional discretionary bonuses and/or incentives, as well as a comprehensive benefits package.\n"
+        }
+      ]
     },
     {
       "name": "阿里云",
-      "jobs": []
+      "jobs": [
+        {
+          "name": "阿里云智能-云网络资深技术专家-杭州",
+          "subName": "阿里云智能-云网络资深技术专家-杭州 | 8年",
+          "mdName": "阿里云智能-云网络资深技术专家-杭州",
+          "url": "https://careers.aliyun.com/off-campus/position-detail?positionId=2000080701&track_id=SSP1743760809513LsrXtYQgib9757",
+          "location": "杭州",
+          "experience": "8年",
+          "description": "阿里云网络的洛神技术平台，提供的网络虚拟化，软硬件一体化，基于云原生的NFV技术，以及SDN管控技术，支撑了阿里云丰富的网络产品。本岗位主要负责洛神云网络虚拟化网络技术架构设计、技术演进规划以及公共云相关网络产品等的研发工作。 \n\n岗位职责: \n1. 负责公共云网络网络虚拟化产品的架构设计，持续提升网络在安全隔离、性能优化、可靠性、弹性和大规模运营方面的能力。\n2. 负责公共云网络类产品的管控和数据面方案设计、研发交付工作，包括VPC、EIP等产品。\n3. 负责公共云网络技术的洞察和战略规划，引导团队进行前瞻性研究和开发，打造未来更加灵活和高效的云计算网络，包括高性能网络、SDN管控技术、可编程网络技术等。",
+          "requirement": "1. 10年以上网络工程领域工作经验，其中包括在大型云计算公司的从业背景。\n2. 精通TCP/IP协议栈、DPDK、RDMA、TCP-X等网络高性能传输技术。\n3. 精通SDN、NFV、OVS、P4、智能网卡等网络可编程和编排技术。\n4. 对操作系统、虚拟化、容器技术和virtio等系统技术有深入的理解和实践经验。\n5. 具备在云计算环境下构建和运营大型分布式网络系统的经验。\n6. 熟悉云计算产品和业务模式，能够结合业务需求推动技术发展。\n7. 具备优秀的项目管理、团队协作与跨部门沟通能力。\n8. 具备创新思维，能够适应快速变化的技术环境和产品需求。"
+        }
+      ]
     },
     {
       "name": "淘天集团",
@@ -266,6 +288,15 @@
           "url": "https://jobs.bytedance.com/experienced/position/7447073191581108487/detail"
         },
         {
+          "name": "Layout高级工程师",
+          "subName": "Layout高级工程师 | 北京",
+          "mdName": "Layout高级工程师",
+          "description": "1、根据结构要素图与原理图，与结构基带等相关领域配合完成PCB的堆叠；\n2、按照原理图要求，独立设计PCB与FPC，并完成布局、布线、Gerber资料发放、SMT生产资料发放以及EQ对接等工作；\n3、根据器件规格书与建库规范，独立完成器件建库工作；\n4、完成基础的电路仿真工作，根据仿真结果调整布局与布线；\n5、配合硬件相关领域做好PCB相关问题的追踪与改善，配合相关领域完成PCB小型化工作。",
+          "requirement": "1、本科及以上学历，电子信息工程、通信工程等相关专业； 从事Layout相关工作4年以上，具有高通手机平台设计经验优先；\n2、具有独立完成10层以上HDI板的设计能力；熟练使用PADS，Cadence 等ECAD设计工具；\n3、了解PCB以及FPC的加工制程；熟悉SMT生产工艺；熟悉信号完整性与电源完整性；\n4、有良好的英语表达能力和阅读能力；工作有责任心，具有团队协作精神和敬业精神。",
+          "location": "北京",
+          "url": "https://jobs.bytedance.com/experienced/position/7446313850452297991/detail"
+        },
+        {
           "name": "光学工程师-PICO",
           "subName": "光学工程师-PICO | 上海",
           "mdName": "光学工程师-PICO",
@@ -291,15 +322,6 @@
           "requirement": "1、本科及以上学历，计算机相关专业， 2年及以上智能硬件测试工作经验；\n2、熟悉测试原理、流程及规范，掌握常用软件测试方法，能熟练制定系统的测试计划和测试用例；\n3、熟悉Android平台特性，了解常见原理机制，熟悉安卓测试常见的测试方法和质量保障手段；\n4、熟悉至少一门编程语言，包括但不仅限于：Java、OC、C、C++、Python、Go、PHP；\n5、具备较好的问题定位分析能力、逻辑思维能力，具备较好的问题推进能力和沟通协作能力。",
           "location": "北京",
           "url": "https://jobs.bytedance.com/experienced/position/7444097278614210824/detail"
-        },
-        {
-          "name": "RTOS测试开发工程师",
-          "subName": "RTOS测试开发工程师 | 北京",
-          "mdName": "RTOS测试开发工程师",
-          "description": "1、负责智能硬件方向RTOS底层质量保障工作，协同各角色持续优质交付产品，参与质量体系规划和建设；\n2、参与外围器件的研制，对RTOS性能、功耗、稳定性等有深入的理解，熟悉质量保障方案；\n3、对产品的关键指标有识别能力，建立准入准出标准，与研发协调共同优化核心指标；\n4、持续改进测试过程和测试方法，优化测试方案；\n5、深入调研研发体系和流程，给出相应的自动化测试方案，通过新技术或方案提升测试服务质量。",
-          "requirement": "1、计算机、通信、电子、自动化等相关专业本科及以上学历，3年以上测试工作经验；\n2、熟悉至少一门编程语言，包括但不仅限于：Java、OC、C、C++、Python、Go、PHP；\n3、熟悉黑盒、白盒测试等常见的测试方法和测试框架；\n4、具备较好的问题定位分析能力、逻辑思维能力，具备较好的问题推进能力和沟通协作能力，以及抗压能力；\n5、有嵌入式Camera方向产品测试经验优先，熟悉Camera功能、性能、链路稳定性。",
-          "location": "北京",
-          "url": "https://jobs.bytedance.com/experienced/position/7444097053372582162/detail"
         }
       ]
     },
@@ -325,21 +347,30 @@
     },
     {
       "name": "小红书",
-      "jobs": []
+      "jobs": [
+        {
+          "name": "Java高级工程师-业务平台",
+          "subName": "Java高级工程师-业务平台 | 北京市",
+          "mdName": "Java高级工程师-业务平台",
+          "url": "https://job.xiaohongshu.com/social/position/15218",
+          "location": "北京市",
+          "description": "岗位职责：\n- 参与小红书商业平台后端系统设计和研发工作，业务方向包括销售平台、资金交易、伙伴平台、广告风控、账户资质等\n- 与产品、运营、前端、测试、运维等多角色协同工作，包括业务理解，需求评审，方案沟通，系统维护等\n- 运用领域驱动建模、后端开发、大数据开发等多种技术手段进行系统建设，保证产品功能交付的质量和效率\n- 负责复杂业务系统架构、稳定性、成本、性能等方面的优化工作，保障线上服务运行稳定，资源使用合理",
+          "requirement": "基本要求：\n- 本科及以上学历，计算机相关专业及优秀院校毕业者优先\n- 具备扎实的Java语言开发功底，良好的代码风格与习惯，对自身代码精益求精，追求优雅\n- 熟悉Spring、MyBatis、Thrift等常用开发框架，掌握常见功能场景的框架应用最佳实践\n- 熟悉MySQL、Redis、Kafka、ElasticSearch等常用中间件，掌握常见功能场景的中间件应用最佳实践\n- 优秀的面向对象设计能力，有重构意识，不只满足于完成产品需求交付，更能抽象提炼出可复用的模块或组件，提升代码复用度\n- 具备一定系统架构能力，能够关注系统的非功能性需求，例如性能、可用性、扩展性等方面，持续优化服务稳定性和迭代效率\n- 良好的沟通、协作、学习能力，能快速融入团队，积极面对困难和挑战，协同其他角色一起达成目标"
+        },
+        {
+          "name": "商业分析师（商业化提效方向）",
+          "subName": "商业分析师（商业化提效方向） | 北京市，上海市",
+          "mdName": "商业分析师（商业化提效方向）",
+          "url": "https://job.xiaohongshu.com/social/position/14967",
+          "location": "北京市/上海市",
+          "description": "工作职责：\n1. 专项分析\n   - 独立完成商业化专项课题（广告效果归因/客户LTV建模/ROI优化等）的分析框架设计、数据提取、分析结论和策略输出；\n   - 能够基于业务情况，搭建关键业务指标体系，指导分析洞察和策略设计；  \n   - 定期输出业务分析诊断报告，预警潜在风险并制定应对方案；\n\n2. 产品化策略输出\n  - 通过业务实操，拿到best practice，抽象关键业务策略和执行链路，对接产品团队，推动其产品化交付，完成重要业务运营效率提升；",
+          "requirement": "硬性门槛\n- 统招本科及以上学历，数学/统计学/经济学/计算机相关专业优先  \n- 5年以上商业分析或类型岗位经验，有社交媒体/信息流广告从业背景者加分  \n- 精通SQL，能独立完成数据处理  \n- 熟练使用回归分析、聚类算法等基础模型  \n\n软性素质\n- 出色的跨部门沟通能力，能向非技术背景高管清晰传递分析结论  \n- 强烈的ownership意识，能承受快速迭代的业务压力"
+        }
+      ]
     },
     {
       "name": "SHEIN",
-      "jobs": [
-        {
-          "name": "质量专家（云平台）-南京",
-          "subName": "质量专家（云平台）-南京 | 南京市",
-          "mdName": "质量专家（云平台）-南京",
-          "url": "https://app.mokahr.com/social-recruitment/shein/2933#/job/e54c0cd6-adcb-4a11-8d75-197a756a90cc",
-          "location": "南京市",
-          "description": "<p><strong>岗位职责：</strong></p><p>1、主导云平台相关产品（如DevOps工具链、Kubernetes、中间件等）的测试与质量保障，制定并执行测试方案；</p><p>2、搭建自动化测试体系，优化测试流程和工具链，提升效率和覆盖率；</p><p>3、深度参与需求分析与设计，提供质量保障方案，确保系统功能与性能稳定；</p><p>4、牵头云平台质量小组，负责质量标准及流程的宣贯与落地；</p><p>5、分析与解决测试中发现的复杂问题，推动质量问题快速闭环与改进。</p><p><br></p><p><strong>职位要求：</strong></p><p>1、5年以上测试经验，有云平台或分布式系统测试经验；</p><p>2、熟悉Kubernetes、DevOps工具链和云平台技术，并有相关测试实战经验；</p><p>3、对中间件（如Elasticsearch、Tair等）与数据库（如MySQL、Redis）有性能测试经验；</p><p>4、熟练掌握脚本语言（Python/Shell等）进行测试脚本开发；</p><p>5、优秀的问题定位与分析能力，具备跨团队协作和质量管理经验。</p><p><br></p><p><strong>加分项：</strong></p><p>* 掌握CI/CD测试、自动化测试工具（如Selenium、JMeter）或高并发场景测试经验；</p><p>* 有推动质量标准建设和团队质量文化宣贯工作经验。</p>",
-          "requirement": ""
-        }
-      ]
+      "jobs": []
     },
     {
       "name": "deepseek",
@@ -456,6 +487,15 @@
           "experience": null
         },
         {
+          "name": "查询引擎高级工程师",
+          "subName": "查询引擎高级工程师 | 北京市",
+          "mdName": "查询引擎高级工程师",
+          "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2895833218&highlightType=social",
+          "description": "1. 不断优化存储和计算方案，实现数十亿用户近万标签的用户画像数据上秒级别的人群圈选预估、结果返回；\n2. 实现在明细数据上的圈选预估和分析，实现跨多种数据引擎的用户分析引擎，并不断优化存储和查询算法；\n3. 能够深入理解业务，进行重点难点技术攻关工作，将技术实现与业务场景联系起来，快速解决业务需求问题；\n4. 不断探索OLAP存储引擎、实时计算引擎的前沿进展，推动技术能力进步和技术氛围的建设。",
+          "requirement": "1. 业务价值大，美团画像团队负责建设全公司统一的画像产品和服务，业务场景丰富，服务于全公司各个业务线的营销、搜索推荐、广告投放、消息推送、风控、客服等场景；\n2. 技术挑战大，离线圈选在巨量用户和标签上实现秒级别的圈人预估和结果返回，实时圈选需要实现高可扩展的规则引擎，支持各种场景下灵活的圈选能力。",
+          "experience": null
+        },
+        {
           "name": "动态化容器-高级(iOS/Android)开发工程师",
           "subName": "动态化容器-高级(iOS/Android)开发工程师 | 北京市",
           "mdName": "动态化容器-高级(iOS/Android)开发工程师",
@@ -470,6 +510,15 @@
           "mdName": "业务容器-高级移动端(iOS/Android)开发工程师",
           "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2695666217&highlightType=social",
           "description": "负责美团动态化容器（ReactNative）iOS/Android/鸿蒙端的研发工作，其中包括： \n1. 负责开发动态化容器 iOS/Android/鸿蒙端的功能组件，迭代动态化容器 API； \n2. 参与动态化容器 iOS/Android/鸿蒙端架构设计，建设高可用的动态化容器； \n3. 负责优化动态化容器 iOS/Android/鸿蒙端性能和稳定性，提升用户使用体验。",
+          "requirement": "1. 加入美团 App 研发团队，为亿万用户提供功能丰富、体验卓越的 App，帮助大家 Eat Better, Live Better；\n2. 充分发挥技术的杠杆作用，满足复杂多样的技术需求，支撑并驱动业务快速发展；\n3. 能和互联网一流研发团队的技术大牛一起，综合学习，共同进步。",
+          "experience": null
+        },
+        {
+          "name": "客户端C++研发工程师",
+          "subName": "客户端C++研发工程师 | 北京市",
+          "mdName": "客户端C++研发工程师",
+          "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2097596549&highlightType=social",
+          "description": "1. 参与鸿蒙端动态化容器的架构设计，确保项目研发质量和代码的可维护性；\n2. 负责鸿蒙端动态化容器的模块设计与实现，实现高性能、高质量的容器模块；\n3. 对项目中的技术难点和重点进行深入研究和总结，积累可复用的经验。\n4. 能够主动解决和推动项目前鸿蒙端动态化容器技术领域的阻塞点和难点；\n5. 结合美团的业务需求，探索行业前沿技术，规划容器技术路线。",
           "requirement": "1. 加入美团 App 研发团队，为亿万用户提供功能丰富、体验卓越的 App，帮助大家 Eat Better, Live Better；\n2. 充分发挥技术的杠杆作用，满足复杂多样的技术需求，支撑并驱动业务快速发展；\n3. 能和互联网一流研发团队的技术大牛一起，综合学习，共同进步。",
           "experience": null
         },
@@ -516,24 +565,6 @@
           "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=3164909460&highlightType=social",
           "description": "1.负责美团搜索查询理解、召回、排序各阶段的算法模型优化，提升搜索效果。\n2.负责美团搜索前沿技术探索，包括大模型技术在搜索场景的落地应用。",
           "requirement": "1.美团核心流量入口，海量的用户数据、复杂大模型应用场景，技术挑战高，发展机会多，成长空间大。\n2.具备广阔的职业发展空间，可以在搜索算法领域不断深入研究和探索，成为业内有影响力的专家。\n3.团队氛围好，专注解决算法以及用户体验问题，可以跟组内优秀同事共同成长。",
-          "experience": null
-        },
-        {
-          "name": "境外住宿-高级移动端开发工程师",
-          "subName": "境外住宿-高级移动端开发工程师 | 北京市",
-          "mdName": "境外住宿-高级移动端开发工程师",
-          "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=3138721477&highlightType=social",
-          "description": "1、参与境外住宿业务系统的日常开发维护工作。包括需求对接、接口约定、页面开发、测试修复、线上运维等工作。\n\n2、保证高效，高质量，高体验的完成系统的研发及优化；\n\n3、积极主动协调相关团队完成项目，促进团队合作\n\n4、负责校招应届生、新员工的培养，持续在团队内进行业务、技术输出。",
-          "requirement": "1、面对复杂的移动端设备、全球网络环境等复杂场景下，积极拥抱AI技术，在用户预订酒店流程中融入AI能力，追求更高的用户体验；\n\n2、面对多平台（美团、点评），多端（Android，iOS、小程序、H5），多业务的场景，探索代码的可复用性，可拓展性，可维护性。并通过AI技术提升日常开发效率；",
-          "experience": null
-        },
-        {
-          "name": "业务研发平台-业务平台框架研发组-高级开发工程师",
-          "subName": "业务研发平台-业务平台框架研发组-高级开发工程师 | 北京市/上海市",
-          "mdName": "业务研发平台-业务平台框架研发组-高级开发工程师",
-          "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2445803033&highlightType=social",
-          "description": "1.负责MDP、XFrame等公司级开发框架在AI时代的技术演进；\n2.探索AI Agent在架构治理、技术升级等研发工作上的落地；\n3.参与系统的高可用建设，做好系统日常运维，确保系统稳定；\n4.发现并解决当前系统中存在的问题，持续提升系统效率和质量；\n5.指导新人，积极输出实践经验，促进共同进步。",
-          "requirement": "1.建设服务于全公司的AI基建，实地参与到AI Agent的研发工作，快速积累AI实战经验；\n2.组内产品服务公司几乎所有团队，对稳定性、代码质量要求极高，技术挑战大、成长快；\n3.业界技术交流机会。",
           "experience": null
         }
       ]
